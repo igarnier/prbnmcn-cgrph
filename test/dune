@@ -1,0 +1,3 @@
+(tests
+  (names basic qsort eval undo tracking)
+  (libraries qcheck cgraph))
